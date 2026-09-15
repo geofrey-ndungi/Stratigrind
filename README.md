@@ -1,1 +1,1 @@
-# Stratigrind-reactnative
+# Stratigrind
