@@ -1,5 +1,5 @@
 import { Redirect, Tabs } from 'expo-router';
-import { useAuth } from '../../lib/AuthContext';
+import { useAuth } from '../../../lib/AuthContext';
 import { Text } from 'react-native';
 
 export default function TabsLayout() {
